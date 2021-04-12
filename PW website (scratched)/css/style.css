@@ -1,0 +1,30 @@
+.c1 {
+    font-family: arial;
+    color: white
+}
+
+.c2 {
+    font-family: arial;
+    color: white;
+    line-height: 1.5;
+}
+a:link {
+  text-decoration: none;color:aqua
+}
+
+a:visited {
+  color: aqua;
+}
+
+a:hover {
+  text-decoration: underline;color: DeepPink;
+}
+a:active {
+  color: hotpink;
+}
+body {
+    margin-right: auto;
+    margin-left: auto;
+    width: 65%;
+    background-image: linear-gradient(to bottom right, darkmagenta, teal);text-align: center;
+}
